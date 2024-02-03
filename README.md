@@ -1,2 +1,2 @@
 # leafWeb
-This is NewsFeed webapp.
+This is NewsFeed and todo webapp.
